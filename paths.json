@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/pbakliwal/pbakliwal-retail-rebranding/language-masters/en:/",
+    "/content/pbakliwal/pbakliwal-retail-rebranding/language-masters/en/:/en/",
+    "/content/pbakliwal/pbakliwal-retail-rebranding/configuration:/.helix/config.json",
+    "/content/pbakliwal/pbakliwal-retail-rebranding/metadata:/metadata.json",
+    "/content/pbakliwal/pbakliwal-retail-rebranding/redirects:/redirects.json",
+    "/content/pbakliwal/pbakliwal-retail-rebranding/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/pbakliwal/pbakliwal-retail-rebranding/",
+    "/content/dam/pbakliwal/pbakliwal-retail-rebranding/"
   ]
 }
